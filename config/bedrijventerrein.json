@@ -24,6 +24,11 @@
           "package": "OSLO-Perceel",
           "packagelabel": "Appplicatieprofiel bedrijventerrein",
           "packageurl": "https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein"
+        },
+        {
+          "package": "OSLO-Bedrijventerrein",
+          "packagelabel": "Appplicatieprofiel bedrijventerrein",
+          "packageurl": "https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein"
         } 
     ]
   }
