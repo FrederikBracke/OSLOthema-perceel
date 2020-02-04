@@ -14,6 +14,17 @@
     "site": "site-skeleton/bedrijventerrein",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-perceel/issues",
     "standaardregisterurl": "https://otl-test.data.vlaanderen.be/standaarden/kandidaat-standaarden/applicatieprofiel-bedrijventerreinen/applicatieprofiel-bedrijventerreinen.html",
-    "dependencies": []
+    "dependencies": [
+        {
+          "package": "OSLO-Generiek",
+          "packagelabel": "Appplicatieprofiel Generiek-basis",
+          "packageurl": "https://otl-test.data.vlaanderen.be/doc/applicatieprofiel/generiek-basis/"
+        }, 
+        {
+          "package": "OSLO-Perceel",
+          "packagelabel": "Appplicatieprofiel bedrijventerrein",
+          "packageurl": "https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein"
+        } 
+    ]
   }
 ]
