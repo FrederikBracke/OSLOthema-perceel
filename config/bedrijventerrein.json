@@ -4,7 +4,7 @@
     "type": "ap",
     "title" : "Bedrijventerrein",
     "eap": "OSLO-Bedrijventerrein.eap",
-    "diagram": "OSLO-Bedrijventerrein",
+    "diagram": "OSLO-Bedrijventerrein-impl",
     "template": "bedrijventerrein-impl.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "2019-08-21",
